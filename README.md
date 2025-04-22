@@ -44,6 +44,7 @@ Analisis dilakukan dengan menggunakan query SQL untuk:
 
 - `Sales_Performance_Report.sql`: Kumpulan query SQL yang digunakan untuk analisis.
 - `README.md`: Dokumentasi proyek.
+- `dqlab_sales_store.sql` : Database Sales Store yang akan dianalisis
 
 ## 📌 Hasil Analisis
 
